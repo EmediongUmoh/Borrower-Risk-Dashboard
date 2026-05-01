@@ -27,6 +27,7 @@ Dependents influenced borrower risk exposure
 
 [screenshots/dashboard.png
 ](https://github.com/EmediongUmoh/Borrower-Risk-Dashboard/blob/main/Borrower-Risk-Analysis/Screenshots/Dashboard.PNG)
+
 **Author**
 
 Emediong Anthony Umoh
